@@ -1,5 +1,5 @@
-install_github("https://github.com/ahmetakdeve/Lab5_17",subdir = "swelection")
 library(devtools)
+install_github("https://github.com/ahmetakdeve/Lab5_17",subdir = "swelection")
 library(shiny)
 library(swelection)
 library(dplyr)
